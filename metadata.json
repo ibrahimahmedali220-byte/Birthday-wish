@@ -1,0 +1,7 @@
+{
+  "name": "A Special Dua For You",
+  "description": "A beautiful and peaceful digital dua experience created with sincere good wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
